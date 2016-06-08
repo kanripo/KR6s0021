@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 14:34
+#+DATE: 2016-06-08 14:35
 #+TITLE: 梵語千字文
 #+PROPERTY: CBETA_ID T54n2133A
 #+PROPERTY: ID KR6s0021
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 54, No. 2133A
 #+PROPERTY: VOL 54
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6s0021_T_000-1190a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0021_T_001-1190a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -227,7 +227,7 @@ No. 2133A¶
 ¶
 儲安釜鑊¶
 ¶
-(（？）)刀　(又仗突)鎌珁(𤬪)瓮¶
+(（？）)刀　(又仗[宋-木+(乏-之+(犮-乂+又))])鎌珁(𤬪)瓮¶
 ¶
 斧箕繩索違¶
 ¶
