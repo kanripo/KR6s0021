@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:07:51.198561
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:35
 #+TITLE: 梵語千字文
 #+PROPERTY: CBETA_ID T54n2133A
 #+PROPERTY: ID KR6s0021
@@ -11,16 +11,19 @@
 #+PROPERTY: LASTPB <pb:KR6s0021_T_001-1190a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No. 2133A¶
-梵語千字文并序¶
+No.2133A¶
+
+ 梵語千字文并序¶
 ¶
 三藏法師義淨撰¶
 
+* 序
 為欲向西國人。作學語樣。仍各註中。梵音下¶
 題漢字。其無字者。以音正之。並是當途要字。¶
 但學得此則餘語皆通。不同舊千字文。若兼¶
 悉曇章讀梵本。一兩年間即堪翻譯矣。¶
 
+* 梵語千字文
 天地日月陰　陽¶
 ¶
 圓矩晝夜¶
@@ -227,7 +230,7 @@ No. 2133A¶
 ¶
 儲安釜鑊¶
 ¶
-(（？）)刀　(又仗[宋-木+(乏-之+(犮-乂+又))])鎌珁([土*瓦])瓮¶
+(（？）)刀　(又仗[宋-木+(乏-之+(犮-乂+又))])鎌珁(𤬪)瓮¶
 ¶
 斧箕繩索違¶
 ¶
@@ -277,7 +280,7 @@ No. 2133A¶
 ¶
 筐針綖裁縫街¶
 ¶
-吟卷吼嗔[口*笑]¶
+吟卷吼嗔㗛¶
 ¶
 吉凶絕嶺新¶
 
@@ -304,7 +307,7 @@ No. 2133A¶
 ¶
 潛形禪河水¶
 ¶
-[泳-永+(虍-七+(一/八/八/目))]戒巘巖¶
+𤀹戒巘巖¶
 ¶
 清俯悲塵界猶¶
 ¶
@@ -390,9 +393,9 @@ No. 2133A¶
 ¶
 取有斯開見¶
 ¶
-生雖喜老死¶
+生雖喜老死還¶
 ¶
-還哀憂悲¶
+哀憂悲始¶
 ¶
 去苦惱終來¶
 ¶
@@ -432,11 +435,11 @@ No. 2133A¶
 ¶
 屎尿充塞臗胯¶
 ¶
-[奇*皮]偏皮肉骨¶
+㿲偏皮肉骨¶
 ¶
 髓膿(又熟)瘡血周緣¶
 ¶
-[月*坒]腿[跳-兆+專]膝　脛腂腡¶
+䏶腿[跳-兆+專]膝　脛腂腡¶
 
 <pb:KR6s0021_T_001-1194c>¶
 研手足頑痺¶
@@ -457,24 +460,32 @@ No. 2133A¶
 
 ¶
 
-〔識語〕¶
+* 〔識語〕
+:PROPERTIES:
+:head: 〔識語〕
+:END:
+¶
 
 ¶
 作　阿闍梨多　聞　三藏　法師　勝¶
-Kṛtir Ācārya-bahu-śruta-tripiṭa [ka] bhadanta-param:¶
+KṛtirĀcārya-bahu-śruta-tripiṭa[ka]bhadanta-param:¶
 ¶
 義天　之　福　生　母　父¶
-ārthadevasya yad atra puṇyaṁ tad bhavatu mātāpi:¶
+ārthadevasyayadatrapuṇyaṁtadbhavatumātāpi:¶
 ¶
 師　和上　先　行　一切　有情　無上¶
 trācāryopādhyāya-pūrvaṁgama-sarvasattvānuttarasa:¶
 ¶
 正等正覺　精進天　寫　有情利益¶
-myaksaṁbodhaye Vīryadevena eikhitaṁ sattvahite¶
+myaksaṁbodhayeVīryadevenaeikhitaṁsattvahite¶
 ¶
-yad atra kuśalaṁ jātaṁ tad me syād agrabodhaye¶
+yadatrakuśalaṁjātaṁtadmesyādagrabodhaye¶
 
-〔梵唐消息〕
+* 〔梵唐消息〕
+:PROPERTIES:
+:head: 〔梵唐消息〕
+:END:
+
 <pb:KR6s0021_T_001-1195a>¶
 
 天地日月¶
@@ -539,9 +550,9 @@ yad atra kuśalaṁ jātaṁ tad me syād agrabodhaye¶
 四十五十六十七十八十¶
 
 <pb:KR6s0021_T_001-1195c>¶
-九十百千萬億　兆¶
+九十百千萬億¶
 ¶
-(十億為兆)富貴賤貧¶
+兆(十億為兆)富貴賤貧¶
 ¶
 多少長短兒子¶
 ¶
@@ -557,7 +568,7 @@ yad atra kuśalaṁ jātaṁ tad me syād agrabodhaye¶
 ¶
 遠近憂悲¶
 ¶
-哭[口*笑]語迎¶
+哭㗛語迎¶
 ¶
 送拜跪罵¶
 ¶
@@ -610,7 +621,11 @@ yad atra kuśalaṁ jātaṁ tad me syād agrabodhaye¶
 ¶
 ¶
 
-梵語千字文後序¶
+* 梵語千字文後序
+:PROPERTIES:
+:head: 梵語千字文後序
+:END:
+¶
 ¶
 
 為欲向西天者所申梵漢語樣有三。一曰¶
